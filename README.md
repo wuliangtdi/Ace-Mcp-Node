@@ -328,13 +328,3 @@ ISC License
 ## 🤝 贡献
 
 欢迎贡献！请随时提交 Pull Request。
-
-## 📧 联系方式
-
-- 作者: wmymz
-- Email: wmymz@icloud.com
-
-## 🙏 致谢
-
-基于 Python 版本的 Acemcp 项目实现。
-
